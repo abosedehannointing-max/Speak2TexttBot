@@ -1,6 +1,4 @@
 aiogram==3.4.1
-Flask==3.0.3
 python-dotenv==1.0.1
 SpeechRecognition==3.10.0
 pydub==0.25.1
-aiofiles==23.2.1
